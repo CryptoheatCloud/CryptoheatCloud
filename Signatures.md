@@ -3,10 +3,10 @@
 //JUNIOR MEMBER
 
 [center]
-■   [url=http://https:cryptoheat.org]WORLD'S FIRST DECENTRALIZED HEAT ENERGY MARKETPLACE[/url]   ■
-■■   [url=https://cryptoheat.org]CRYPTOHEAT CLOUD  ≈  LET'S MAKE MINING GREEN[/url]   ■■
-■ [url=http://bit.ly/cryptoheat-wp] {White Paper} [/url] ≈ [url=https://twitter.com/CryptoHeatCloud] {Twitter} [/url] ≈ [url=https://cryptoheat.org] {ANN} [/url] ≈ [url=https://facebook.com/CryptoHeatCloud] {Facebook} [/url] ≈ [url=https://t.me/cryptoheat] {Telegram} [/url] ■
+[url=https://cryptoheat.org]CryptoHeat Cloud - Heat Energy Exchange[/url]
+■Reduce energy wasting in crypto | Make mining green■
 [/center]
+
 
 
 //MEMBER
@@ -14,7 +14,7 @@
 [center]
 ■   [url=http://https:cryptoheat.org]WORLD'S FIRST DECENTRALIZED HEAT ENERGY MARKETPLACE[/url]   ■
 ■■   [url=https://cryptoheat.org]CRYPTOHEAT CLOUD  ≈  LET'S MAKE MINING GREEN[/url]   ■■
-■ [url=http://bit.ly/cryptoheat-wp] {White Paper} [/url] ≈ [url=https://twitter.com/CryptoHeatCloud] {Twitter} [/url] ≈ [url=https://cryptoheat.org] {ANN} [/url] ≈ [url=https://facebook.com/CryptoHeatCloud] {Facebook} [/url] ≈ [url=https://t.me/cryptoheat] {Telegram} [/url] ■
+■ [url=http://bit.ly/cryptoheat-WhitePaper] {White Paper} [/url] ≈ [url=https://twitter.com/CryptoHeatCloud] {Twitter} [/url] ≈ [url=https://cryptoheat.org] {ANN} [/url] ≈ [url=https://facebook.com/CryptoHeatCloud] {Facebook} [/url] ≈ [url=https://t.me/cryptoheat] {Telegram} [/url] ■
 [/center]
 
 
@@ -23,7 +23,7 @@
 [center]
 ■    [url=http://https:cryptoheat.org][font=calibri][size=14pt][b][color=#660000]World[/color][color=#770000]'s Fir[/color][color=#880000]st Dec[/color][color=#990000]entra[/color][color=#aa0000]lized[/color] [color=#bb0000]Heat E[/color][color=#cc0000]nergy[/color] [color=#dd0000]Marke[/color][color=#ee0000]tplace[/color][/font][/url]     ■
 [url=http://https:cryptoheat.org][font=Arial Black][color=#03AC4C]■■   CRYPTOHEAT CLOUD[/color] ≈ [color=#1C1246]LET'S MAKE MINING GREEN[/color]   ■■[/font][/url]
-[color=#660000]■ [/color][url=http://bit.ly/cryptoheat-wp][color=#660000]{Whi[/color][color=#770000]te Pap[/color][color=#880000]er}[/color][/url][color=#880000] ≈ [/color][url=url=https://twitter.com/CryptoHeatCloud][color=#990000]{Twitt[/color][color=#aa0000]er}[/color][/url][color=#aa0000] ≈ [/color] [url=https://bitcointalk.org/cryptoheat][color=#bb0000]{ANN}[/color][/url][color=#bb0000] ≈ [/color][url=https://facebook.com/CryptoHeatCloud] [color=#cc0000] {Face[/color][color=#dd0000]book}[/color][/url][color=#ee0000] ≈ [/color][url=https://t.me/cryptoheat] [color=#ee0000] {Tel[/color][color=#ff0000]egram}[/color][/url][color=#ff0000] ■[/color]
+[color=#660000]■ [/color][url=http://bit.ly/cryptoheat-WhitePaper][color=#660000]{Whi[/color][color=#770000]te Pap[/color][color=#880000]er}[/color][/url][color=#880000] ≈ [/color][url=url=https://twitter.com/CryptoHeatCloud][color=#990000]{Twitt[/color][color=#aa0000]er}[/color][/url][color=#aa0000] ≈ [/color] [url=https://bitcointalk.org/cryptoheat][color=#bb0000]{ANN}[/color][/url][color=#bb0000] ≈ [/color][url=https://facebook.com/CryptoHeatCloud] [color=#cc0000] {Face[/color][color=#dd0000]book}[/color][/url][color=#ee0000] ≈ [/color][url=https://t.me/cryptoheat] [color=#ee0000] {Tel[/color][color=#ff0000]egram}[/color][/url][color=#ff0000] ■[/color]
 [/center]
 
 
@@ -78,7 +78,7 @@
 [td]
 [center]
 [size=5pt][color=transparent]░░[/color]
-[font=calibri][size=9pt][b][color=#1C1246][url=http://bit.ly/cryptoheat-wp] {White Paper} [/url][/color][/font]
+[font=calibri][size=9pt][b][color=#1C1246][url=http://bit.ly/cryptoheat-WhitePaper] {White Paper} [/url][/color][/font]
 [font=calibri][size=9pt][b][color=#1C1246][url=https://www.facebook.com/CryptoHeatCloud] {Facebook} [/url][/color][/font]
 [/center]
 [/td]
@@ -150,7 +150,7 @@
 [td]
 [center]
 [size=5pt][color=transparent]░░[/color]
-[font=calibri][size=9pt][b][color=#1C1246][http://bit.ly/cryptoheat-wp] {White Paper} [/url][/color][/font]
+[font=calibri][size=9pt][b][color=#1C1246][url=http://bit.ly/cryptoheat-WhitePaper] {White Paper} [/url][/color][/font]
 [font=calibri][size=9pt][b][color=#1C1246][url=https://www.facebook.com/CryptoHeatCloud] {Facebook} [/url][/color][/font]
 [/center]
 [/td]
